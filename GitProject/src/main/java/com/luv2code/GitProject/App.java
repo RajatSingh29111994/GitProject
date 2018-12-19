@@ -12,10 +12,7 @@ public class App
 System.out.println( "Hello World! QA" );
 
 System.out.println( "Hello World! Environment" );
-System.out.println( "Hello World! Production" );
-System.out.println( "Hello World! QA Pull..." );
-System.out.println( "Hello World! QA only Pull" );
-System.out.println( "Git Ignore Folder Latest vvhjvjhvhj vghvhvhjvhjvhjvhvjh" );
+System.out.println( "Hello World! Product m m,ion" );
 
     }
 }
